@@ -1,4 +1,4 @@
-# FloodSight Lagos Pilot
+# FloodSight Lagos Prototype
 
 **FloodSight** is an open-data flood intelligence platform that combines geospatial risk modelling, population exposure analysis, and rainfall-triggered alerts to support climate adaptation and early warning in flood-prone urban communities.
 
@@ -188,19 +188,6 @@ floodsight-lagos-pilot/
   qgis/
     FloodSight_Lagos_Pilot_Final.qgz
 ```
-
-## Files not recommended for GitHub
-
-Do not upload large raw data files such as:
-
-- raw DEM tiles
-- WorldPop rasters
-- CHIRPS rasters
-- OSM `.pbf` extracts
-- large intermediate GeoPackages
-- temporary QGIS files
-
-Instead, document the source links and keep large files locally or in cloud storage.
 
 ## Limitations
 
